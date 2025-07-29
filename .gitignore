@@ -1,0 +1,22 @@
+# Build files
+build/
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS Code
+.vscode/
+
+# OS / system
+.DS_Store
+Thumbs.db
+*.swp
+
